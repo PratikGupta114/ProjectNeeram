@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="White">#FFFFFF</color>
+    <color name="darkText">#333333</color>
+    <color name="lightText">#555555</color>
+    <color name="waterBlue">#EB53B5FF</color>
+    <color name="buttonBlue">#EB0584E4</color>
+    <color name="deciceConnected">#449CDF</color>
+    <color name="deviceNotConnected">#666666</color>
+</resources>

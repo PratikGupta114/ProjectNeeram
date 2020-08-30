@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project Neeram</string>
+    <string name="connectedMessage">Connected to remote device !</string>
+    <string name="disconnectedMessage">Remote device seems disconnected !</string>
+</resources>

@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "236645712575",
+    "firebase_url": "https://water-level-analyzer.firebaseio.com",
+    "project_id": "water-level-analyzer",
+    "storage_bucket": "water-level-analyzer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236645712575:android:a3203564ea73be03073c0a",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236645712575-0k0j2olml27tmrn0sj5kijnri13bhuki.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "7b3aadb6c5d77e38427497b532d4df9a82abf22a"
+          }
+        },
+        {
+          "client_id": "236645712575-4ce9m2o5v1q8sgu9q8fs58dheqrsse0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUvDcXpaLzLvG0bAcpLfn4i68aZSQr0gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236645712575-4ce9m2o5v1q8sgu9q8fs58dheqrsse0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236645712575:android:8ebba37e4aafed39073c0a",
+        "android_client_info": {
+          "package_name": "com.example.waterlevelindicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "236645712575-5oh086cumpii4u5em0j45l3quippahaf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.waterlevelindicator",
+            "certificate_hash": "7b3aadb6c5d77e38427497b532d4df9a82abf22a"
+          }
+        },
+        {
+          "client_id": "236645712575-4ce9m2o5v1q8sgu9q8fs58dheqrsse0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUvDcXpaLzLvG0bAcpLfn4i68aZSQr0gM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "236645712575-4ce9m2o5v1q8sgu9q8fs58dheqrsse0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
